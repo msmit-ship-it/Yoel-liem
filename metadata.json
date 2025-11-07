@@ -1,0 +1,5 @@
+{
+  "name": "Gojek Super App Clone",
+  "description": "A feature-rich UI clone of the Gojek super app, showcasing various services like GoRide, GoFood, and GoPay in a clean, mobile-first interface built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
